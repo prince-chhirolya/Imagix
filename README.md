@@ -14,10 +14,10 @@ Shadcn<br>
 TailwindCSS<br>
 
 ## Our Application Use Cases:
-Content Creators: Streamline the process of editing and enhancing images for social media posts, blog articles, and marketing materials.<br>
-Photographers: Revive old or damaged photographs, remove unwanted objects, and customize colors to create stunning visuals.<br>
-Graphic Designers: Effortlessly fill missing areas of images, remove backgrounds, and manipulate objects to achieve desired design outcomes.<br>
-Archivists: Preserve historical images by restoring them to their original quality and removing imperfections, ensuring their longevity for future generations.<br>
+**Content Creators:** Streamline the process of editing and enhancing images for social media posts, blog articles, and marketing materials.<br>
+**Photographers:** Revive old or damaged photographs, remove unwanted objects, and customize colors to create stunning visuals.<br>
+**Graphic Designers:** Effortlessly fill missing areas of images, remove backgrounds, and manipulate objects to achieve desired design outcomes.<br>
+**Archivists:** Preserve historical images by restoring them to their original quality and removing imperfections, ensuring their longevity for future generations.<br>
 
 ## Application Advanced Features:
 <p>👉 Authentication and Authorization: Secure user access with registration, login, and route protection.</p>
