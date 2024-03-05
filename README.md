@@ -1,3 +1,5 @@
+![MasterHead](Screenshot.png)
+
 # Imagix - AI photo enhancer
 Our application revolutionizes the way users interact with images, providing a comprehensive suite of tools to enhance, customize, and manage visual content with ease and confidence.
 
@@ -38,6 +40,5 @@ and many more, including code architecture and reusability.
 ## Team: 
 ~ [Prince Chhirolya](https://www.linkedin.com/in/princechhirolya/) <br>
 ~ [Sreshta](https://www.linkedin.com/in/sreshtakmr/)
-
 
 
