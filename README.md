@@ -36,8 +36,8 @@ Archivists: Preserve historical images by restoring them to their original quali
 and many more, including code architecture and reusability.
 
 ## Team: 
-~ Prince Chhirolya
-~ Sreshta
+~ [Prince Chhirolya](https://www.linkedin.com/in/princechhirolya/) <br>
+~ [Sreshta](https://www.linkedin.com/in/sreshtakmr/)
 
 
 
