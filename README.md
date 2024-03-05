@@ -2,14 +2,14 @@
 Our application revolutionizes the way users interact with images, providing a comprehensive suite of tools to enhance, customize, and manage visual content with ease and confidence.
 
 ## Teachstack I use for creating this:
-Next.js
-TypeScript
-MongoDB
-Clerk
-Cloudinary
-Stripe
-Shadcn
-TailwindCSS
+Next.js<br>
+TypeScript<br>
+MongoDB<br>
+Clerk<br>
+Cloudinary<br>
+Stripe<br>
+Shadcn<br>
+TailwindCSS<br>
 
 ## Our Application Use Cases:
 Content Creators: Streamline the process of editing and enhancing images for social media posts, blog articles, and marketing materials.
