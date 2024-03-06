@@ -42,7 +42,7 @@ and many more, including code architecture and reusability.
 ~ [Sreshta](https://www.linkedin.com/in/sreshtakmr/)
 
 ## Few Screenshots
-![MasterHead](Screenshot.png)
+![MasterHead](screenshot.png)
 ![MasterHead](1.png)
 ![MasterHead](2.png)
 ![MasterHead](4.png)

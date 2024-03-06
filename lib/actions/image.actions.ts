@@ -23,7 +23,7 @@ export async function addImage({ image, userId, path }: AddImageParams) {
         const author = await User.findById(userId);
 
         if (!author) {
-            new Error("User not found");
+            throw new Error("User not found");
         }
 
         const newImage = await Image.create({
@@ -47,7 +47,7 @@ export async function updateImage({ image, userId, path }: UpdateImageParams) {
         const imageToUpdate = await Image.findById(image._id);
 
         if (!imageToUpdate || imageToUpdate.author.toHexString() !== userId) {
-            new Error("Unauthorized or image not found");
+            throw new Error("Unauthorized or image not found");
         }
 
         const updatedImage = await Image.findByIdAndUpdate(
@@ -84,7 +84,7 @@ export async function getImageById(imageId: string) {
 
         const image = await populateUser(Image.findById(imageId));
 
-        if(!image) new Error("Image not found");
+        if(!image) throw new Error("Image not found");
 
         return JSON.parse(JSON.stringify(image));
     } catch (error) {
@@ -108,7 +108,7 @@ export async function getAllImages({ limit = 9, page = 1, searchQuery = '' }: {
             secure: true,
         })
 
-        let expression = 'folder=imagix';
+        let expression = 'folder=imaginify';
 
         if (searchQuery) {
             expression += ` AND ${searchQuery}`
