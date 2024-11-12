@@ -39,7 +39,6 @@ and many more, including code architecture and reusability.
 
 ## Team: 
 ~ [Prince Chhirolya](https://www.linkedin.com/in/princechhirolya/) <br>
-~ [Sreshta](https://www.linkedin.com/in/sreshtakmr/)
 
 ## Few Screenshots
 ![MasterHead](screenshot.png)
