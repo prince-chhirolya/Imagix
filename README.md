@@ -41,7 +41,7 @@ and many more, including code architecture and reusability.
 ~ [Prince Chhirolya](https://www.linkedin.com/in/princechhirolya/) <br>
 
 ## Few Screenshots
-![MasterHead](screenshot.png)
+![MasterHead](Screenshot.png)
 ![MasterHead](1.png)
 ![MasterHead](2.png)
 ![MasterHead](4.png)
